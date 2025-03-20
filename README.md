@@ -15,5 +15,5 @@ Jupyter notebook created to keep track data visualization techniques using matpl
 - Planned
 
 ## See also 📖
-<a href=https://www.kaggle.com/discussions/questions-and-answers/425386> Kaggle reference </a>
+<a href=https://www.kaggle.com/discussions/questions-and-answers/425386> Kaggle reference </a> | 
 <a href=https://www.reddit.com/r/learnpython/comments/vpvco2/matplotlib_vs_plotly_vs_seaborn_data_science_in/> A thread from r/learnpython sub-reddit  </a>
