@@ -1,12 +1,12 @@
 # python-data-visualizatn
 Jupyter notebook created to keep track data visualization techniques using matplotlib, seaborn etc.
 
-## Starting with Matplotlib ▶
+## Starting with Matplotlib ✅
 - The quintessential & most commonly-used library in python for visualizing findings from data (mostly off of dataframes). A good starting point...
 - Initial walk-through of the various methods & functions available & applying them to sample datasets from Kaggle, Youtube , Datacamp tutorials etc.
 - Quantitative analysis of  ample dataset
 
-## Seaborn⭕
+## Seaborn ▶
 - Built off of Matplotlib ; mainly focused on statistical plotting
 - planned
 
