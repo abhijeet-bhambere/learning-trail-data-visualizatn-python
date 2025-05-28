@@ -10,7 +10,7 @@ Jupyter notebook created to keep track data visualization techniques using matpl
 
 ## Seaborn ▶
 - Built off of Matplotlib ; mainly focused on statistical plotting
-- planned
+- In progress. Completed basics, moving over to relational plots & subplots using `relplot()`
 
 ## Plotly⭕
 - Offers user-interactive features
